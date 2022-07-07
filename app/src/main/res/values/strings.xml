@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin022_ListView</string>
+
+    <string-array name="Lang_name" >
+        <item>C</item>
+        <item>C++</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>ABAP</item>
+    </string-array>
+
+</resources>
